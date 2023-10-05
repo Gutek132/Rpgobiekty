@@ -1,0 +1,14 @@
+C:\Users\Ja\Desktop\nowyrpg\nowyrpg\obj\Debug\net6.0\nowyrpg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ja\Desktop\nowyrpg\nowyrpg\obj\Debug\net6.0\nowyrpg.AssemblyInfoInputs.cache
+C:\Users\Ja\Desktop\nowyrpg\nowyrpg\obj\Debug\net6.0\nowyrpg.AssemblyInfo.cs
+C:\Users\Ja\Desktop\nowyrpg\nowyrpg\obj\Debug\net6.0\nowyrpg.csproj.CoreCompileInputs.cache
+C:\Users\Ja\Desktop\nowyrpg\nowyrpg\bin\Debug\net6.0\nowyrpg.exe
+C:\Users\Ja\Desktop\nowyrpg\nowyrpg\bin\Debug\net6.0\nowyrpg.deps.json
+C:\Users\Ja\Desktop\nowyrpg\nowyrpg\bin\Debug\net6.0\nowyrpg.runtimeconfig.json
+C:\Users\Ja\Desktop\nowyrpg\nowyrpg\bin\Debug\net6.0\nowyrpg.dll
+C:\Users\Ja\Desktop\nowyrpg\nowyrpg\bin\Debug\net6.0\nowyrpg.pdb
+C:\Users\Ja\Desktop\nowyrpg\nowyrpg\obj\Debug\net6.0\nowyrpg.dll
+C:\Users\Ja\Desktop\nowyrpg\nowyrpg\obj\Debug\net6.0\refint\nowyrpg.dll
+C:\Users\Ja\Desktop\nowyrpg\nowyrpg\obj\Debug\net6.0\nowyrpg.pdb
+C:\Users\Ja\Desktop\nowyrpg\nowyrpg\obj\Debug\net6.0\nowyrpg.genruntimeconfig.cache
+C:\Users\Ja\Desktop\nowyrpg\nowyrpg\obj\Debug\net6.0\ref\nowyrpg.dll
